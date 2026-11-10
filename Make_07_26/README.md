@@ -8,7 +8,5 @@ Maker Media GmbH
 
 
 
-
-
-
-
+* Daniel Zeimentz hat ein alternatives Gehäuse für das Meatloaf Projekt ”C64 im Internet” entworfen.
+* 
